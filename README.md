@@ -4,9 +4,9 @@
 
 
 <a href="">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=dennisonlau&show_icons=true&theme=transparent" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=dennisonlau&show_icons=true&theme=swift" />
 </a>
 
 <a href="">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisonlau&layout=compact" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennisonlau&layout=compact&theme=swift" />
 </a>
