@@ -5,9 +5,10 @@
 print("Hello, this is Dennison")
 
 
-![Dennison's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=github-compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+```markdown
+![Dennison's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dennisonlau&theme=github-compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dennisonlau&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennisonlau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
